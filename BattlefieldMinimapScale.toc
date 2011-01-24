@@ -1,0 +1,10 @@
+## Interface: 40000
+
+## Title: BattlefieldMinimapScale
+## Notes: Simple scaling of the battlefield minimap
+## Author: Quaiche of Dragonblight
+## Version: $project-version$
+## X-Category: Map
+## LoadWith: Blizzard_BattlefieldMinimap
+
+Addon.lua
