@@ -6,5 +6,6 @@
 ## Version: $project-version$
 ## X-Category: Map
 ## LoadWith: Blizzard_BattlefieldMinimap
+## X-License: Apache-2.0
 
 Addon.lua
